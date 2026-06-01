@@ -1,0 +1,11 @@
+CustomerID,CustomerName,Country,EntityType,TransactionAmount,PEP_Flag,SanctionsFlag,NegativeNews,RiskScore,RiskRating,OnboardDate
+C001,John Murphy,Ireland,Individual,4500,No,No,No,0,LOW RISK,2023-01-15
+C002,Ali Hassan,Iran,Individual,48000,Yes,Yes,Yes,100,HIGH RISK,2023-02-20
+C003,Global Tech Ltd,Ireland,Corporate,12000,No,No,No,25,MEDIUM RISK,2023-03-10
+C004,Maria Santos,Brazil,Individual,9500,No,No,Yes,5,LOW RISK,2023-04-05
+C005,Black Sea Trading,Russia,Corporate,75000,Yes,Yes,Yes,100,HIGH RISK,2023-05-18
+C006,Emma Clarke,Ireland,Individual,3000,No,No,No,0,LOW RISK,2023-06-22
+C007,North Star LLC,Cayman Islands,Corporate,95000,No,Yes,Yes,80,HIGH RISK,2023-07-30
+C008,David Chen,China,Individual,15000,No,No,No,25,MEDIUM RISK,2023-08-14
+C009,Patrick Walsh,Ireland,Individual,2000,No,No,No,0,LOW RISK,2023-09-01
+C010,Gulf Investments,UAE,Corporate,55000,Yes,No,Yes,50,HIGH RISK,2023-10-12
